@@ -1,0 +1,43 @@
+_repo: Descrip-a--sobre-a-cultura-do-Canamo-ou-Canave_30068
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Velloso, José Mariano da Conceição
+    aliases:
+    - Da Conceição Velloso, José Mariano
+    - Conceição Velloso, José Mariano da
+    - Mariano Velloso, José
+    - Veloso, José Mariano da Conceição
+    - Velloso, Jose Mariano da Conceicao
+    - Veloso, Jose Mariano da Conceicao
+    birthdate: 1742
+    deathdate: 1811
+    gutenberg_agent_id: '31107'
+    url: http://www.gutenberg.org/2009/agents/31107
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Duhamel du Monceau, Henri-Louis
+    alias: Monceau, Henri-Louis Duhamel du
+    birthdate: 1700
+    deathdate: 1782
+    gutenberg_agent_id: '34350'
+    url: http://www.gutenberg.org/2009/agents/34350
+    wikipedia: http://en.wikipedia.org/wiki/Henri-Louis_Duhamel_du_Monceau
+description: ''
+gutenberg_bookshelf: PT Ciência e Técnica
+gutenberg_issued: '2009-09-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30068'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hemp -- Culture'
+- !lcc 'SB'
+title: Descripçaõ sobre a cultura do Canamo ou Canave
+url: http://www.gutenberg.org/ebooks/30068
